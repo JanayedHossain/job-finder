@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@font-face {
+  font-family: Exo-font;
+  src: url("./fonts/Exo-font.ttf") format("opentype");
+}
+@font-face {
+  font-family: Poppins-font;
+  src: url("./fonts/Poppins-font.ttf") format("opentype");
+}
+@theme {
+  --font-primaryFont: "Exo-font", sans-serif;
+  --font-seconderyFont: "Poppins-font", sans-serif;
+}
+
+nav a.active {
+  color: #4b29cf;
+  font-weight: bold;
+}
+
+footer a.active {
+  font-weight: bold;
+  color: white;
+}
+

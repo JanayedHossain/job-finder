@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Samiha Akter",
+    "role": "Frontend Developer",
+    "message": "JobFinder helped me land my dream job in just two weeks. Highly recommended!",
+    "image": "https://randomuser.me/api/portraits/women/94.jpg"
+  },
+  {
+    "name": "Tanvir Hasan",
+    "role": "UI/UX Designer",
+    "message": "Super clean interface and very easy to apply for jobs. Love this platform!",
+    "image": "https://randomuser.me/api/portraits/men/43.jpg"
+  },
+  {
+    "name": "Raihan Ahmed",
+    "role": "Backend Engineer",
+    "message": "Very organized job listings and amazing user experience. Great work!",
+    "image": "https://randomuser.me/api/portraits/men/64.jpg"
+  },
+  {
+    "name": "Jannatul Ferdous",
+    "role": "Digital Marketer",
+    "message": "I found the perfect job through JobFinder. It's the best job search tool out there!",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "name": "Shakil Ahmed",
+    "role": "Software Engineer",
+    "message": "User-friendly design and job postings that match my skillset. Truly a game changer.",
+    "image": "https://randomuser.me/api/portraits/men/67.jpg"
+  },
+  {
+    "name": "Mousumi Sultana",
+    "role": "Project Manager",
+    "message": "I highly recommend JobFinder for both employers and job seekers. It’s efficient and reliable!",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg"
+  }
+]

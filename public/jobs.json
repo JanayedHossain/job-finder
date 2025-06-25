@@ -1,0 +1,418 @@
+[
+  {
+    "id": "1",
+    "name": "TechSoft Ltd.",
+    "logo": "https://i.ibb.co.com/1Gwv2Dbh/tse-techsoft-logo-420x280.png",
+    "location": "Dhaka, Bangladesh",
+    "website": "https://techsoft.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-001-1",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.postimg.cc/YqB4C3V6/coding-924920-1280.jpg",
+        "location": "Remote",
+        "salary": "$800 - $1000",
+        "jobType": "Full-time",
+        "description": "We are looking for a skilled frontend developer to join our dynamic team.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-001-2",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.postimg.cc/NGH9tVNG/man-1839500-1280.jpg",
+        "location": "Remote",
+        "salary": "$900 - $1100",
+        "jobType": "Full-time",
+        "description": "Join our backend team to build scalable APIs and microservices.",
+        "requirements": [
+          "Experience with Node.js or Django",
+          "Understanding of databases like MongoDB or PostgreSQL",
+          "REST & GraphQL APIs",
+          "Version control with Git",
+          "Problem-solving mindset"
+        ]
+      },
+      {
+        "id": "job-001-3",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://i.postimg.cc/6qnyh274/coffee-7567749-1280.jpg",
+        "location": "Dhaka",
+        "salary": "$700 - $900",
+        "jobType": "Full-time",
+        "description": "Design intuitive user interfaces and improve user experience across platforms.",
+        "requirements": [
+          "Proficiency in Figma or Adobe XD",
+          "Portfolio of UI/UX projects",
+          "Wireframing and prototyping skills",
+          "Good communication",
+          "Understanding of user behavior"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "FinSolve Solutions",
+    "logo": "https://i.ibb.co.com/BF0cfD5/cropped-Fin-Solve-header11-2.png",
+    "location": "Chittagong, Bangladesh",
+    "website": "https://finsolve.com",
+    "industry": "Finance",
+    "jobs": [
+      {
+        "id": "job-002-1",
+        "title": "Data Analyst",
+        "bannerImage": "https://i.postimg.cc/Jn9sJchW/digital-marketing-1725340-1280.jpg",
+        "location": "Chittagong",
+        "salary": "$1000 - $1300",
+        "jobType": "Full-time",
+        "description": "Help us make informed decisions by analyzing financial data.",
+        "requirements": [
+          "Proficient in Excel and SQL",
+          "Experience with Power BI or Tableau",
+          "Strong analytical skills",
+          "Basic understanding of finance",
+          "Attention to detail"
+        ]
+      },
+      {
+        "id": "job-002-2",
+        "title": "Financial Planner",
+        "bannerImage": "https://i.postimg.cc/bJGGsFpT/money-5029288-1280.jpg",
+        "location": "Remote",
+        "salary": "$1200 - $1400",
+        "jobType": "Full-time",
+        "description": "Plan and strategize investments for individual and business clients.",
+        "requirements": [
+          "Experience in financial consulting",
+          "Certified financial planner (preferred)",
+          "Client communication skills",
+          "Risk management knowledge",
+          "Understanding of local regulations"
+        ]
+      },
+      {
+        "id": "job-002-3",
+        "title": "Accounts Manager",
+        "bannerImage": "https://i.postimg.cc/PqVpfksJ/credit-4516068-1280.jpg",
+        "location": "Chittagong",
+        "salary": "$1100 - $1350",
+        "jobType": "Full-time",
+        "description": "Manage financial records and ensure regulatory compliance.",
+        "requirements": [
+          "Bachelor’s in accounting or finance",
+          "Experience with QuickBooks or similar",
+          "Strong reporting skills",
+          "Budget management",
+          "Team collaboration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "EduPro Institute",
+    "logo": "https://i.ibb.co.com/8DsQ2xJ4/images-removebg-preview.png",
+    "location": "Sylhet, Bangladesh",
+    "website": "https://edupro.org",
+    "industry": "Education",
+    "jobs": [
+      {
+        "id": "job-003-1",
+        "title": "Course Coordinator",
+        "bannerImage": "https://i.postimg.cc/xd1NS1ZB/coffee-5132832-1280.jpg",
+        "location": "Sylhet",
+        "salary": "$500 - $700",
+        "jobType": "Part-time",
+        "description": "Manage online course content and communication with students.",
+        "requirements": [
+          "Good communication skills",
+          "Experience in education sector",
+          "Basic computer literacy",
+          "Ability to handle multiple tasks",
+          "Organizational skills"
+        ]
+      },
+      {
+        "id": "job-003-2",
+        "title": "Online Instructor",
+        "bannerImage": "https://i.postimg.cc/jSXn97Mz/laptop-7978588-1280.jpg",
+        "location": "Remote",
+        "salary": "$600 - $800",
+        "jobType": "Part-time",
+        "description": "Teach students online through interactive platforms.",
+        "requirements": [
+          "Subject expertise",
+          "Experience with Zoom/Google Meet",
+          "Lesson planning skills",
+          "Student engagement techniques",
+          "Fluent in English & Bangla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "HealthBridge",
+    "logo": "https://i.ibb.co.com/4g09wwRj/Health-Bridge17-1024x278.png",
+    "location": "Khulna, Bangladesh",
+    "website": "https://healthbridge.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-004-1",
+        "title": "Medical Officer",
+        "bannerImage": "https://i.postimg.cc/rwctQJNV/stethoscope-6497490-1280.jpg",
+        "location": "Khulna",
+        "salary": "$1200 - $1500",
+        "jobType": "Full-time",
+        "description": "Hiring licensed medical officers to assist in outpatient services.",
+        "requirements": [
+          "MBBS degree required",
+          "Valid BMDC registration",
+          "Minimum 2 years of experience",
+          "Excellent patient care skills",
+          "Ability to work under pressure"
+        ]
+      },
+      {
+        "id": "4-auto-2",
+        "title": "Nurse Practitioner",
+        "bannerImage": "https://i.postimg.cc/9Fy7dSTg/health-2382316-1280.jpg",
+        "location": "Khulna",
+        "salary": "$1000 - $1300",
+        "jobType": "Full-time",
+        "description": "Provide primary healthcare support in clinical settings.",
+        "requirements": [
+          "Nursing degree with registration",
+          "Minimum 2 years of clinical experience",
+          "Good diagnostic abilities",
+          "Excellent communication skills",
+          "Team player"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "GreenTech Innovations",
+    "logo": "https://i.ibb.co.com/3mpfGQ49/logo-dark.png",
+    "location": "Barisal, Bangladesh",
+    "website": "https://greentech.com",
+    "industry": "Renewable Energy",
+    "jobs": [
+      {
+        "id": "job-005-1",
+        "title": "Junior Architect",
+        "bannerImage": "https://i.postimg.cc/L4cPZRqZ/paper-3152429-1280.jpg",
+        "location": "Khulna",
+        "salary": "$800 - $1000",
+        "jobType": "Full-time",
+        "description": "Assist in design and drafting of building projects.",
+        "requirements": [
+          "Bachelor’s in Architecture",
+          "AutoCAD, SketchUp, or Revit skills",
+          "Strong portfolio",
+          "Attention to detail",
+          "Team collaboration"
+        ]
+      },
+      {
+        "id": "job-005-2",
+        "title": "Project Manager (Construction)",
+        "bannerImage": "https://i.postimg.cc/qBhnRg7T/architect-3979490-1280.jpg",
+        "location": "Khulna",
+        "salary": "$1200 - $1500",
+        "jobType": "Full-time",
+        "description": "Manage architectural project timelines and site coordination.",
+        "requirements": [
+          "Experience in site management",
+          "Knowledge of construction standards",
+          "Leadership skills",
+          "Problem-solving mindset",
+          "Fluency in AutoCAD"
+        ]
+      },
+      {
+        "id": "job-005-3",
+        "title": "Sustainable Design Consultant",
+        "bannerImage": "https://i.postimg.cc/5yCxMh1h/pinwheels-6535595-1280.jpg",
+        "location": "Remote",
+        "salary": "$1000 - $1300",
+        "jobType": "Part-time",
+        "description": "Promote green architecture in new projects.",
+        "requirements": [
+          "Experience in sustainable building design",
+          "Knowledge of LEED certification",
+          "Analytical thinking",
+          "Passion for green living",
+          "Consultancy experience"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "AquaMarine Logistics",
+    "logo": "https://i.ibb.co.com/0Rc8J0Sf/Aquamarine-movie-logo.webp",
+    "location": "Cox's Bazar, Bangladesh",
+    "website": "https://aqualogistics.com",
+    "industry": "Logistics",
+    "jobs": [
+      {
+        "id": "job-006-1",
+        "title": "Logistics Coordinator",
+        "bannerImage": "https://i.postimg.cc/dDcJQ5VL/chemical-1636375-1280.jpg",
+        "location": "Cox's Bazar",
+        "salary": "$600 - $800",
+        "jobType": "Full-time",
+        "description": "Ensure smooth shipping and transportation operations.",
+        "requirements": [
+          "Bachelor’s degree in supply chain or related field",
+          "Experience with shipment tracking systems",
+          "Ability to multitask",
+          "Good English communication",
+          "Knowledge of customs regulations"
+        ]
+      },
+      {
+        "id": "6-auto-2",
+        "title": "Warehouse Manager",
+        "bannerImage": "https://i.postimg.cc/rmb83V6G/garages-428636-1280.jpg",
+        "location": "Cox's Bazar",
+        "salary": "$650 - $850",
+        "jobType": "Full-time",
+        "description": "Manage warehouse operations and staff.",
+        "requirements": [
+          "Experience managing logistics warehouses",
+          "Inventory tracking knowledge",
+          "Leadership skills",
+          "Safety compliance understanding",
+          "Organized and detail-oriented"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Byte Media",
+    "logo": "https://i.ibb.co.com/ds76MY0S/Byte-Media.png",
+    "location": "Rajshahi, Bangladesh",
+    "website": "https://bytebuzzmedia.com",
+    "industry": "Digital Marketing",
+    "jobs": [
+      {
+        "id": "job-007-1",
+        "title": "Robotics Engineer",
+        "bannerImage": "https://i.postimg.cc/fLkz83PT/engineering-3863851-1280.jpg",
+        "location": "Dhaka",
+        "salary": "$1400 - $1700",
+        "jobType": "Full-time",
+        "description": "Build and program robotic systems.",
+        "requirements": [
+          "C/C++ or Python",
+          "Microcontroller experience",
+          "Problem-solving mindset",
+          "Hands-on robotics projects",
+          "Team player"
+        ]
+      },
+      {
+        "id": "job-007-2",
+        "title": "Embedded Systems Developer",
+        "bannerImage": "https://i.postimg.cc/vZLZTw9M/laptop-2620118-1280.jpg",
+        "location": "Remote",
+        "salary": "$1300 - $1600",
+        "jobType": "Full-time",
+        "description": "Develop firmware for embedded devices.",
+        "requirements": [
+          "Experience with RTOS",
+          "Strong debugging skills",
+          "Electronics background",
+          "Fluent in C/C++",
+          "IoT device knowledge"
+        ]
+      },
+      {
+        "id": "job-007-3",
+        "title": "AI Research Intern",
+        "bannerImage": "https://i.postimg.cc/rpfyGGQP/ai-7977960-1280.jpg",
+        "location": "Remote",
+        "salary": "$500 - $700",
+        "jobType": "Internship",
+        "description": "Support AI model development in robotics.",
+        "requirements": [
+          "Basic ML knowledge",
+          "Python skills",
+          "Interest in AI/Robotics",
+          "Good communication",
+          "Academic background in CS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "SmartConstruct Co.",
+    "logo": "https://i.ibb.co.com/W49wvgKz/Logo6.png",
+    "location": "Rangpur, Bangladesh",
+    "website": "https://smartconstruct.com",
+    "industry": "Construction",
+    "jobs": [
+      {
+        "id": "job-008-1",
+        "title": "Cabin Crew Member",
+        "bannerImage": "https://i.postimg.cc/25k8B9FW/inside-2601081-1280.jpg",
+        "location": "Dhaka",
+        "salary": "$1000 - $1200",
+        "jobType": "Full-time",
+        "description": "Ensure safety and comfort of passengers.",
+        "requirements": [
+          "Pleasant personality",
+          "Customer service experience",
+          "Height and health requirements",
+          "Fluent in English",
+          "Flexible schedule"
+        ]
+      },
+      {
+        "id": "job-008-2",
+        "title": "Flight Scheduler",
+        "bannerImage": "https://i.postimg.cc/zG1fqGy0/travelling-7844283-1280.jpg",
+        "location": "Dhaka",
+        "salary": "$900 - $1100",
+        "jobType": "Full-time",
+        "description": "Plan flight routes and manage crew schedules.",
+        "requirements": [
+          "Knowledge of aviation software",
+          "Organizational skills",
+          "Team collaboration",
+          "Time management",
+          "Air traffic basics"
+        ]
+      },
+      {
+        "id": "job-008-3",
+        "title": "Aircraft Maintenance Engineer",
+        "bannerImage": "https://i.postimg.cc/rF4m6rwD/engineer-2558705-1280.jpg",
+        "location": "Dhaka",
+        "salary": "$1500 - $1800",
+        "jobType": "Full-time",
+        "description": "Ensure safety by maintaining aircraft.",
+        "requirements": [
+          "Licensed AME",
+          "Mechanical and electrical knowledge",
+          "Safety protocol adherence",
+          "Diagnostic skills",
+          "Experience in commercial aircrafts"
+        ]
+      }
+    ]
+  }
+]
