@@ -40,4 +40,17 @@ JobFinder is an innovative and user-friendly job tracking platform that helps jo
 
 ---
 
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/JanayedHossain/job-finder.git
+
+
+---
+
+
+
+
 Thanks for visiting **JobFinder**! 🎯
